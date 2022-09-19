@@ -1,0 +1,64 @@
+.app {
+  font-family: "Open Sans" "sans-serfi";
+  color: hsl(338, 9%, 25%);
+  max-width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+.city {
+  font-size: 56px;
+  color: #44393d;
+}
+
+.date {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.cloud {
+  text-align: center;
+  font-size: 200px;
+  color: #c27847;
+}
+
+.degreeone {
+  font-size: 46px;
+  color: #44393d;
+}
+
+.day {
+  font-weight: bold;
+  color: #44393d;
+}
+
+.degree {
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+#celsius,
+#fahrenheit {
+  color: grey;
+  text-decoration: none;
+}
+#celsius:focus,
+#fahrenheit:focus {
+  color: #c27847;
+}
+#celsius:focus-visible {
+  outline-style: none;
+}
+
+.week {
+  text-align: center;
+}
+
+.inarow {
+  font-weight: bolder;
+  color: #44393d;
+}
+
+.emoji {
+  color: #c27847;
+}
